@@ -1,0 +1,12 @@
+ 
+  Dog #1
+  Author: Lisa Redfern
+  License: CC-BY 3.0
+ 
+  Dog #2
+  Author: Jaylew1987
+  License: CC-BY 3.0
+  
+  Dog #3
+  Author: Breviceps
+  License: CC-BY 3.0
